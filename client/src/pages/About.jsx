@@ -8,23 +8,20 @@ export default function About() {
           </h1>
           <div className='text-md text-gray-500 flex flex-col gap-6'>
             <p>
-              Welcome to Amal’s Journal! This blog was created by Amal Krishna
-              as a personal project to share his thoughts and ideas with the
-              world. Amal Krishna is a passionate developer who loves to write about
-              technology, coding, and everything in between.
+            Welcome to Amal’s Journal! This blog, curated by Amal Krishna, invites you on a delightful journey through the realms of travel, gastronomy, and lifestyle. Here, we savor the flavors of distant lands, explore hidden gems, and celebrate life’s little pleasures.
             </p>
 
             <p>
               On this blog, you'll find weekly articles and tutorials on topics
-              such as web development, software engineering, and programming
-              languages. Amal Krishna is always learning and exploring new
-              technologies, so be sure to check back often for new content!
+              such as Travel , Food Blogs, and Lifestyle
+              Blogs. Amal Krishna is always  exploring new
+              places!!, so be sure to check back often for new content!
             </p>
 
             <p>
               We encourage you to leave comments on our posts and engage with
               other readers. You can like other people's comments and reply to
-              them as well. We believe that a community of learners can help
+              them as well. We believe that a community of bloggers can help
               each other grow and improve.
             </p>
           </div>
